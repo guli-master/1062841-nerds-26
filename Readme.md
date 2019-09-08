@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Алексей Суслов](https://up.htmlacademy.ru/htmlcss/26/user/1062841).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Завгородний](https://htmlacademy.ru/profile/antemionoy)
 
 ---
 
